@@ -1,7 +1,6 @@
 import gdal, ogr, osr
 import sys
 import numpy as np
-from matplotlib import pyplot as pyp2
 import random
 import os
 from utils import visualizers as vs

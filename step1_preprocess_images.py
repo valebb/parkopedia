@@ -5,7 +5,6 @@ import utm
 import numpy as np
 import os
 import png
-from matplotlib import pyplot as pyp2
 from utils import visualizers as vs
 from utils import ray_algorithm as ray
 
