@@ -1,4 +1,4 @@
-# parkopedia project
+# Parkopedia Project
 Repository storing the python files for a project on recognizing parking lots from satellite images
 
 # Requirements
